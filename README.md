@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ghatageutkarsha
+- 👋 Hi, I’m @utkarshaghatage
 - 👀 I’m interested in coding and development
 - 🌱 I’m currently learning frontend web development
 - 💞️ I’m looking to collaborate on frontend projects
